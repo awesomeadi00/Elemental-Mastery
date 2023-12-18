@@ -27,3 +27,4 @@ There are 4 main elements:
 - `Earth`: With this, if you raise your hands at the top of the canvas, earth pillars will form. Once the rocks are falling, you can quickly move your hands left or right and the rocks will smash in that direction!
 
 ## Movelist Diagram: 
+![Moveset](https://github.com/awesomeadi00/Elemental-Mastery/assets/32769394/5f87b8f8-e89b-40e7-a049-320aeabb1116)
